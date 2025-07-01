@@ -2,7 +2,7 @@ import React from 'react'
 
 const ParentPage = () => {
   return (
-    <div>Hello world</div>
+    <div>ParentPage</div>
   )
 }
 
