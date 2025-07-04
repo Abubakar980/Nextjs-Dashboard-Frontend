@@ -31,8 +31,3 @@ const Navbar = () => {
 export default Navbar
 
 
-
-/**
- *! 26:25  
-
- **/
