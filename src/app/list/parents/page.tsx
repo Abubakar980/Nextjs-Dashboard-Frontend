@@ -108,7 +108,3 @@ const ParentListPage = () => {
 export default ParentListPage;
 
 
-/**
- *! 2:17:43  
- * 
-**/
